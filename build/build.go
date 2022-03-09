@@ -1,3 +1,4 @@
+// build allows access to common build info and tags
 package build // import "go.mlcdf.fr/sally/build"
 
 import (

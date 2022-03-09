@@ -1,4 +1,4 @@
-// logging adds level logging to the default logger
+// logging provides leveled log methods for the default logger
 package logging // import "go.mlcdf.fr/sally/logging"
 
 import (
